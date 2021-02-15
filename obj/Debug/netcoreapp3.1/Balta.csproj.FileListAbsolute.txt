@@ -1,0 +1,13 @@
+/home/marcos/workspace/dotnetProjects/Balta/bin/Debug/netcoreapp3.1/Balta
+/home/marcos/workspace/dotnetProjects/Balta/bin/Debug/netcoreapp3.1/Balta.deps.json
+/home/marcos/workspace/dotnetProjects/Balta/bin/Debug/netcoreapp3.1/Balta.runtimeconfig.json
+/home/marcos/workspace/dotnetProjects/Balta/bin/Debug/netcoreapp3.1/Balta.runtimeconfig.dev.json
+/home/marcos/workspace/dotnetProjects/Balta/bin/Debug/netcoreapp3.1/Balta.dll
+/home/marcos/workspace/dotnetProjects/Balta/bin/Debug/netcoreapp3.1/Balta.pdb
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.csprojAssemblyReference.cache
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.AssemblyInfoInputs.cache
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.AssemblyInfo.cs
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.csproj.CoreCompileInputs.cache
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.dll
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.pdb
+/home/marcos/workspace/dotnetProjects/Balta/obj/Debug/netcoreapp3.1/Balta.genruntimeconfig.cache
