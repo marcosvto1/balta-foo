@@ -1,7 +1,7 @@
 using Balta.NotificationContext;
 using System;
 
-namespace Balta.ContentContext
+namespace Balta.SharedContext
 {
   public abstract class Base : Notifiable
   {

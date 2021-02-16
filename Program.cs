@@ -3,6 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using Balta.ContentContext;
+using Balta.SubscriptionContext;
+
+// https://github.com/andrebaltieri/flunt
+// dotnet add package flunt
 
 namespace Balta
 {
@@ -53,6 +57,11 @@ namespace Balta
 
         }
       }
+
+      var payPalSubscription = new PayPalSubscription();
+      var student = new Student();
+
+      student.CreateSubscription(payPalSubscription);
 
     }
   }
