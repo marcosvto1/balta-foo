@@ -48,6 +48,9 @@ namespace Balta
         System.Console.WriteLine($">>{carreer.Title}");
         foreach (var item in carreer.Items.OrderBy(x => x.Order)) {
           System.Console.WriteLine($"{item.Order}-{item.Title}");
+          System.Console.WriteLine($"\tCourse:{item.Course?.Title}");
+          System.Console.WriteLine($"\tLevel:{item.Course?.Level}");
+
         }
       }
 

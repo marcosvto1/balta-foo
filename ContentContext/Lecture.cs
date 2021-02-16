@@ -3,7 +3,7 @@ using Balta.ContentContext.Enums;
 namespace Balta.ContentContext
 {
 
-  public class Lecture
+  public class Lecture: Base
   {
     public int Ordem { get; set; }
 
